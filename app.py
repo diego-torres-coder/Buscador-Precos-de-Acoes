@@ -13,9 +13,6 @@ import locale
 # Importa funções e variáveis do script utils
 from utils import periodos, obter_tickers
 
-# Define o idioma da aplicação para ser o português do Brasil
-locale.setlocale(locale.LC_ALL, 'pt_BR.utf8')
-
 # Define a configuração da página
 st.set_page_config(
      page_title="Preços de Ações",
