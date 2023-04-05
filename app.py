@@ -18,7 +18,7 @@ locale.setlocale(locale.LC_TIME, 'pt_BR.utf8')
 
 # Define a configuração da página
 st.set_page_config(
-     page_title="Minha aplicação",
+     page_title="Preços de Ações",
      page_icon=":chart_with_upwards_trend:",
      layout="centered"
 )
